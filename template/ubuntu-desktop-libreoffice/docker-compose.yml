@@ -1,0 +1,4 @@
+app:
+  image: mangoliou/ubuntu-desktop-libreoffice.amd64:1.0
+  volumes:
+    - /usr/lib/mime:/mnt/mime
