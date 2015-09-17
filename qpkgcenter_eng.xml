@@ -469,7 +469,7 @@
 		<name>File Browser</name>
 		<internalName>file-browser</internalName>
 		<version>1.0</version>
-		<arch>amd64</arch>
+		<arch>armhf</arch>
 		<category>application</category>
 		<imageType>app</imageType>
 		<repository>dockerhub</repository>
@@ -486,7 +486,7 @@
 		<name>Ubuntu Emacs</name>
 		<internalName>ubuntu-desktop-emacs</internalName>
 		<version>1.0</version>
-		<arch>amd64</arch>
+		<arch>armhf</arch>
 		<category>application</category>
 		<imageType>app</imageType>
 		<repository>dockerhub</repository>
@@ -503,7 +503,7 @@
 		<name>Ubuntu Libreoffice</name>
 		<internalName>ubuntu-desktop-libreoffice</internalName>
 		<version>1.0</version>
-		<arch>amd64</arch>
+		<arch>armhf</arch>
 		<category>application</category>
 		<imageType>app</imageType>
 		<repository>dockerhub</repository>
@@ -520,7 +520,7 @@
 		<name>Ubuntu Pinta</name>
 		<internalName>ubuntu-desktop-pinta</internalName>
 		<version>1.0</version>
-		<arch>amd64</arch>
+		<arch>armhf</arch>
 		<category>application</category>
 		<imageType>app</imageType>
 		<repository>dockerhub</repository>
