@@ -7,5 +7,4 @@ app:
     - /mnt/rf/cd:/guest/mnt
     - /var/run/qbus.sock:/guest/qbus.sock
   labels:
-    qnap.openwith.service: "filebrowser"
-    qnap.openwith.version: "1.0"
+    com.qnap.qcs.destroy.stop: "true"
