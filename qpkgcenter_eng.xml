@@ -482,7 +482,7 @@
 			<![CDATA[]]>
 		</inspect>
 	</ctstation>
-	<ctstation>
+<!-- 	<ctstation>
 		<name>Ubuntu Emacs</name>
 		<internalName>ubuntu-desktop-emacs</internalName>
 		<version>1.0</version>
@@ -532,5 +532,5 @@
 		<inspect>
 			<![CDATA[]]>
 		</inspect>
-	</ctstation>
+	</ctstation> -->
 </plugins>
